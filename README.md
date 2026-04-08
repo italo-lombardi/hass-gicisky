@@ -736,6 +736,7 @@ Then reference them by filename only:
 | 4.2" (400×300) | Image | ![4.2-image.jpg](https://raw.githubusercontent.com/eigger/hass-gicisky/master/examples/4.2-image.jpg) | [4.2" Image](./examples/4.2-image.yaml) |
 | 4.2" (400×300) | Naver Weather | ![4.2-naver-weather.jpg](https://raw.githubusercontent.com/eigger/hass-gicisky/master/examples/4.2-naver-weather.jpg) | [4.2" Naver Weather](./examples/4.2-naver-weather.yaml) |
 | 4.2" (400×300) | Date Weather | ![4.2-date-weather.jpg](https://raw.githubusercontent.com/eigger/hass-gicisky/master/examples/4.2-date-weather.jpg) | [4.2" Date Weather](./examples/4.2-date-weather.yaml) |
+| 4.2" (400×300) | Weather News | ![4.2-weather-news.png](https://raw.githubusercontent.com/eigger/hass-gicisky/master/examples/4.2-weather-news.png) | [4.2" Weather News](./examples/4.2-weather-news.yaml) |
 | 4.2" (400×300) | 3D Print | ![4.2-3d-print.png](https://raw.githubusercontent.com/eigger/hass-gicisky/master/examples/4.2-3d-print.png) | [4.2" 3D Print](./examples/4.2-3d-print.yaml) |
 | 7.5" (800×480) | Google Calendar | ![7.5-google-calendar.jpg](https://raw.githubusercontent.com/eigger/hass-gicisky/master/examples/7.5-google-calendar.jpg) | [7.5" Google Calendar](./examples/7.5-google-calendar.yaml) |
 | 7.5" (800×480) | Date Weather | ![7.5-date-weather.png](https://raw.githubusercontent.com/eigger/hass-gicisky/master/examples/7.5-date-weather.png) | [7.5" Date Weather](./examples/7.5-date-weather.yaml) |
@@ -787,6 +788,7 @@ Remote Calendar -> Add google *.ics
 ### Third-Party Custom Components
 
 - [Naver Weather (minumida)](https://github.com/miumida/naver_weather.git)
+- [ha-weathernews (dugurs)](https://github.com/dugurs/ha-weathernews)
 - [Waste Collection Schedule (mampfes)](https://github.com/mampfes/hacs_waste_collection_schedule.git)
 
 ---
